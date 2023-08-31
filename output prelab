@@ -1,0 +1,83 @@
+Microsoft Windows [Version 10.0.19045.3208]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Student.LAB-212-PC-40>cd Desktop
+
+C:\Users\Student.LAB-212-PC-40\Desktop>cd harsh
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Test.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Test
+My First Java Program
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+Error: Main method not found in class Addition, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+Error: Main method not found in class Addition, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+Error: Main method not found in class Addition, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+10
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+Addition.java:3: error: cannot find symbol
+public static void main(Int[]args)
+                        ^
+  symbol:   class Int
+  location: class Addition
+1 error
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+10
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+10.6
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+Addition.java:1: error: class add is public, should be declared in a file named add.java
+public class add{
+       ^
+1 error
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Addition.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Addition
+23.876
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Subtraction.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Subtraction
+16.124
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Subtraction.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Subtraction
+16.124
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>javac Comparision.java
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java comparision
+Error: Could not find or load main class comparision
+Caused by: java.lang.NoClassDefFoundError: Comparision (wrong name: comparision)
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>java Comparision
+a is greater than  b
+
+C:\Users\Student.LAB-212-PC-40\Desktop\harsh>
